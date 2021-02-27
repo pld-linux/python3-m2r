@@ -8,7 +8,7 @@ Summary:	Markdown and reStructuredText in a single file
 Summary(pl.UTF-8):	Markdown i reStructuredText w pojedynczym pliku
 Name:		python-m2r
 Version:	0.2.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/m2r/
