@@ -20,7 +20,7 @@ BuildRequires:	python-modules >= 1:2.7
 BuildRequires:	python-setuptools
 %if %{with tests}
 BuildRequires:	python-docutils
-BuildRequires:	python-mistune
+BuildRequires:	python-mistune < 2
 BuildRequires:	python-mock
 BuildRequires:	python-pygments
 %endif
@@ -30,7 +30,7 @@ BuildRequires:	python3-modules >= 1:3.4
 BuildRequires:	python3-setuptools
 %if %{with tests}
 BuildRequires:	python3-docutils
-BuildRequires:	python3-mistune
+BuildRequires:	python3-mistune < 2
 BuildRequires:	python3-pygments
 %endif
 %endif
